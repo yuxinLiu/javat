@@ -3,5 +3,6 @@ jdk:
   - oraclejdk8
   
 script:
+  - cd 11
   - javac Helloworld.java
   - java Helloworld
