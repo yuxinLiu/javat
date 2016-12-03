@@ -4,3 +4,4 @@ jdk:
   
 script:
   - javac Helloworld.java
+  - java Helloworld
