@@ -5,4 +5,4 @@ jdk:
   - openjdk6
   
 script:
-  - javac Helloword.java
+  - javac Helloworld.java
