@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Helloworld {
     /**
     * 输出一行字符串“Hello World!”
     * @param args
